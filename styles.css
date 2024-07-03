@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+h2{
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+
+a {
+    color: #ff5100; /* Cor azul padrão para links */
+}
+
+a:hover {
+    color: #e4e2e1; /* Cor azul mais escura quando o link é hover */
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #ff5100; /* Cor azul para links de navegação quando hover */
+}
+
+.btn {
+    color: white;
+    background-color: #555;
+    border-color: #3b3b3b;
+}
+
+.btn:hover {
+    color: white;
+    background-color: #5a5c5e;
+    border-color: #aeb2b6;
+}
+
+img {
+    border: 1px solid #555;
+}
+
+small {
+    color: #ccc;
+}
+
+em {
+    color: #aaa;
+}
+
+strong {
+    color: #fff;
+}
+
+.custom-img {
+    width: 100px; /* Defina a largura desejada */
+    height: 100px; /* Defina a altura desejada */
+    object-fit: cover; /* Mantém a proporção da imagem e a recorta se necessário */
+}
+
+hr{
+    margin-bottom: 50px;
+}
