@@ -16,6 +16,6 @@ p{
 }
 html{
     background-color: black;
-    cursor: url('pixil-frame-0.png') 32 32, auto; /* Ajuste as coordenadas x e y conforme necessário */
+    cursor: url('pixil-frame-0.png') 32 32, auto;
 
 }

@@ -15,11 +15,11 @@ h2{
 
 
 a {
-    color: #ff5100; /* Cor azul padrão para links */
+    color: #ff5100; 
 }
 
 a:hover {
-    color: #e4e2e1; /* Cor azul mais escura quando o link é hover */
+    color: #e4e2e1; 
 }
 
 .nav-link {
@@ -27,7 +27,7 @@ a:hover {
 }
 
 .nav-link:hover {
-    color: #ff5100; /* Cor azul para links de navegação quando hover */
+    color: #ff5100; 
 }
 
 .btn {
@@ -59,9 +59,9 @@ strong {
 }
 
 .custom-img {
-    width: 100px; /* Defina a largura desejada */
-    height: 100px; /* Defina a altura desejada */
-    object-fit: cover; /* Mantém a proporção da imagem e a recorta se necessário */
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
 }
 
 hr{
